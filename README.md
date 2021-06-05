@@ -1,0 +1,4 @@
+- 👋 Ayooooo, I’m @Orimia
+- 👀 I’m interested in Python and Command Line Tools
+- 🌱 I’m currently learning Python and other terminal skills
+- And yeah ...
