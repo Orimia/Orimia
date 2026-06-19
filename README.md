@@ -1,8 +1,8 @@
 ## Hi, I'm Haonan Wang
 
-Founder of **[Recoup](https://github.com/Orimia/recoup)**, verified recycle-to-reward for universities, and a student at **Vanderbilt University**, where the first pilot is live now: **[vandyloop.vercel.app](https://vandyloop.vercel.app)**.
+Founder of **[Recoup](https://github.com/Orimia/recoup)**, verified recycle-to-reward for universities, and a **mechanical engineering** student at **Vanderbilt University**, where the first pilot is live now: **[vandyloop.vercel.app](https://vandyloop.vercel.app)**.
 
-I build full-stack data products end to end: product, backend, data, ML, and the hardware/firmware when it's needed.
+A mechanical engineer who builds the whole stack: product, backend, data, ML, and the physical hardware and firmware when it's needed.
 
 ### What I'm building
 
