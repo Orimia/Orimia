@@ -1,13 +1,13 @@
 ## Hi, I'm Haonan Wang
 
-Founder of **[Recoup](https://github.com/Orimia/recoup)**, verified recycle-to-reward for universities, and a **mechanical engineering** student at **Vanderbilt University**, where the first pilot is live now: **[vandyloop.vercel.app](https://vandyloop.vercel.app)**.
+I'm a **mechanical engineering student at Vanderbilt University** and the founder of **[Recoup](https://github.com/Orimia/recoup)**. I work as a technical product builder across software, data systems, physical-product design, and startup operations.
 
-A mechanical engineer who builds the whole stack: product, backend, data, ML, and the physical hardware and firmware when it's needed.
+### Selected work
 
-### What I'm building
-
-- **[Recoup / VandyLoop](https://github.com/Orimia/recoup)**: a verified-behavior data layer for campus recycling, piloting at **Vanderbilt University** (Munchie Mart, 60 days). Verified-event ledger, reward engine, operator analytics, anti-fraud, and ESP32 bin firmware. Live demo.
-- **[avanza-research-terminal](https://github.com/Orimia/avanza-research-terminal)**: a deterministic stock and crypto research engine with an always-on alert system. 80 tests, green CI, research-only by design.
+- **[Recoup / VandyLoop](https://github.com/Orimia/recoup)**: founded a verified recycle-to-reward system for universities and led it from concept through team formation, product and system design, stakeholder alignment, and a working software prototype. The platform includes a verified-event ledger, rewards engine, operator analytics, anti-fraud controls, a signed hardware-event API, and ESP32 firmware. Awarded **$15,000 from the Vanderbilt Green Fund** for a physical pilot now in development. **[Live software prototype](https://vandyloop.vercel.app)**
+- **Curevo Health**: shipped production systems for a Stockholm digital-health startup, including **8+ live analytics dashboards** that unified Stripe, Meta, Google, and PostHog data for real-time operating decisions. Also implemented and tested BankID authentication for live mobile and desktop users. Code is private.
+- **[Assay](https://github.com/hakan-wang/bongo)**: helped design the evaluation framework, stress-test verification logic, debug the product, and lead the pitch and deck for a Paris Builds 2026 team project. The prototype selectively escalated failed AI-agent steps and matched the staged strong-model benchmark at **74% lower simulated cost**.
+- **[Avanza Research Terminal](https://github.com/Orimia/avanza-research-terminal)**: designed and shipped a deterministic stock and crypto research workflow with screening, scoring, alerts, and decision memos. Research-only by design, with **80 tests and green CI**.
 
 ### Reach me
 
